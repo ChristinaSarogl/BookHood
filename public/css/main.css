@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+}
+
+#searchResults{
+	max-height: 500px;
+	position: absolute;
+	top: 100%;
+	z-index: 100;
+	display: none;
+	right:0;
+	overflow-y:auto
+}
